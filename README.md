@@ -31,6 +31,17 @@ wget -O prover.sh https://raw.githubusercontent.com/bangpateng/Aleo-Prover/main/
 
 Biarkan Instalisasi Selesai Lama Kudu Sabar dan Jangan Lupa Backup Semua Data Kalian Yang Muncul, Setelah Instalisasi Otomatis
 
+# Install cargo
+``` 
+cd snarkOS
+cargo install --path .
+
+```
+# Buat akun
+cd
+snarkos account new
+```
+
 # Run Prover
 
 ```
